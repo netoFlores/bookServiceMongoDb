@@ -2,15 +2,15 @@
 
 _Ejemplo de una API REST integrado con Base de Datos MongoDB._
 
-###CREAR Ejecutable APP.  🔧
+##CREAR Ejecutable APP.  🔧
 
-_Para compilar el proyecto se necesita MAVEN utilizando el siguiente comando_
+_Para compilar el proyecto se necesita `MAVEN` utilizando el siguiente comando_
 
 ```aidl
 mvn clean compile package
 ```
 
-###Ejecutar  🚀
+##Ejecutar  🚀
 
 _En este ejemplo se va correr como una aplicaci&oacute;n Java_
 
